@@ -1,0 +1,20 @@
+[
+    {
+      "name": "TeachAlign Validator",
+      "author": "Orpy",
+      "languages": ["JavaScript", "Next.js", "Node.js"],
+      "description": "A course syllabus analysis tool that helps evaluate learning outcomes and Bloom's taxonomy alignment."
+    },
+    {
+      "name": "Professional Portfolio",
+      "author": "Orpy",
+      "languages": ["React", "Bootstrap", "Netlify"],
+      "description": "A responsive full-stack portfolio site with routing, weather API integration, theme switching, and contact message handling."
+    },
+    {
+      "name": "Job Platform Prototype",
+      "author": "Orpy",
+      "languages": ["Figma", "UX Research"],
+      "description": "A desktop job-search platform prototype designed using interviews, affinity diagramming, and usability feedback."
+    }
+  ]
